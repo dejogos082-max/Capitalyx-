@@ -1,2 +1,0 @@
-# Capitalyx-
-Web App Source
